@@ -1,0 +1,5 @@
+experiment,hidden_units,dropout,weight_decay,early_stopping,epochs_run,curve_assessment,train_loss_at_best_epoch,best_validation_loss,positive_cases_found,positive_cases_total,false_alarms
+256 baseline,256,0.0,0.0,False,150,overfitting,0.0562,0.1203,40,43,3
+256 regularized,256,0.3,0.05,False,150,overfitting,0.059,0.1221,40,43,3
+256 early stopping,256,0.0,0.0,True,92,overfitting,0.0562,0.1203,40,43,3
+16 regularized + early stopping,16,0.3,0.05,True,150,stable,0.1167,0.1611,39,43,1

@@ -1,0 +1,28 @@
+{
+  "input_size": 64,
+  "hidden": [
+    128,
+    64
+  ],
+  "output_size": 10,
+  "test_accuracy": 0.9704,
+  "epochs_run": 200,
+  "best_validation_loss": 0.094309,
+  "seed": 0,
+  "pixel_range": [
+    0,
+    16
+  ],
+  "class_recall": [
+    1.0,
+    1.0,
+    0.963,
+    1.0,
+    0.963,
+    0.9259,
+    0.963,
+    1.0,
+    0.9231,
+    0.963
+  ]
+}

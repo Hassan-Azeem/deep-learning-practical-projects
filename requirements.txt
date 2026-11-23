@@ -1,0 +1,11 @@
+torch
+torchvision
+scikit-learn
+streamlit
+fastapi
+uvicorn[standard]
+matplotlib
+plotly
+pandas
+requests
+joblib

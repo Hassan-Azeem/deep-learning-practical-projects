@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+*.pkl
+*.pptx
+.streamlit/
+!.streamlit/
+!.streamlit/config.toml
+Assignment-5-Submission.zip
